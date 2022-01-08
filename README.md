@@ -1,3 +1,5 @@
+# https://reactjs.org/docs/introducing-jsx.html
+
 # getting started steps:
 
 # npx create-react-app ${appname}
@@ -16,4 +18,5 @@ import './index.css';
 
 (optional)
 clean out the index.html page in the /public file.
+
 # jsx
